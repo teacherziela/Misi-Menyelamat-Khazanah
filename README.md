@@ -62,3 +62,6 @@ Lihat `SUMBER.md` untuk pemetaan fakta dan kredit. Lihat `UJIAN.md` untuk hasil 
 ## Pembukaan CODE ERROR
 
 Selepas nama dihantar, intro operasi selama kira-kira 11 saat memaparkan CODE ERROR, gangguan isyarat, amaran arkib, kira detik 10 saat dan panggilan ejen. Bunyi denyutan cemas mengikut suis Bunyi. Butang Langkau intro terus membuka sambutan. Kira detik ialah elemen cerita dan tidak menolak markah. Tetapan peranti untuk mengurangkan gerakan dihormati.
+
+## Pembetulan peta GitHub Pages (27 September)
+Peta kini dibenamkan terus dalam app.js. Paparan peta tidak lagi memerlukan permintaan fail assets/world-map.svg. Untuk membaiki pemasangan sedia ada, gantikan app.js dengan versi ini, kemudian muat semula halaman selepas GitHub Pages selesai menerbitkan perubahan.
